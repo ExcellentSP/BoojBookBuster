@@ -1,4 +1,4 @@
-<h1 style="text-align:center;">BoojBookBuster</h1>
+<h1 align="center">BoojBookBuster</h1>
 
 ### About BoojBookBuster
 
